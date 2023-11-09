@@ -28,10 +28,10 @@ This GitHub Repository contains homework for your python tasks. The tasks are lo
    - Navigate to the directory where you want to clone your forked repository.
 
 3. **Clone the Forked Repository:**
-   - Run the following command, replacing `<forked_repository_url>` with the copied URL:
+   - Run the following command:
 
      ```bash
-     git clone <forked_repository_url>
+     git clone https://github.com/malvere/PythonHomework.git
      ```
 
 ## Doing the Homework:
@@ -40,7 +40,7 @@ This GitHub Repository contains homework for your python tasks. The tasks are lo
    - Change into the cloned repository directory using the `cd` command:
 
      ```bash
-     cd forkedrepo
+     cd PythonHomework
      ```
 
 2. **Create or Edit Homework Files:**
